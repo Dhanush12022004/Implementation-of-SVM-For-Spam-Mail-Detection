@@ -68,23 +68,22 @@ accuracy
 
 ## Output:
 
-Result output
-
+ Result output
 ![image](https://github.com/NaveenKumar-008/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128135244/12246155-f224-4195-9c0f-52d01289101c)
 
-data.head()
+ data.head()
 ![image](https://github.com/NaveenKumar-008/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128135244/b136f38b-4c8b-4d66-9302-011a5b38d0b4)
 
-data.info()
+ data.info()
 ![image](https://github.com/NaveenKumar-008/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128135244/3f3bc59d-1d10-488a-9710-ea5a8b1331b6)
 
-data.isnull().sum()
+ data.isnull().sum()
 ![image](https://github.com/NaveenKumar-008/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128135244/be82fc43-2f15-478f-984c-99c5c722c899)
 
-Y_Prediction value
+ Y_Prediction value
 ![image](https://github.com/NaveenKumar-008/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128135244/ebb56a0d-0520-4391-b058-fb13f1b90fa4)
 
-Accuracy value
+ Accuracy value
 ![image](https://github.com/NaveenKumar-008/Implementation-of-SVM-For-Spam-Mail-Detection/assets/128135244/50ac4474-4fd2-4749-b47c-f826df76b608)
 
 ## Result:
